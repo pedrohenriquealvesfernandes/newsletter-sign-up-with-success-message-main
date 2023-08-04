@@ -32,7 +32,7 @@ enviar.addEventListener("click",()=>{
 
 btnDismiss.addEventListener("click",()=>{
 
-    signup.style.display = 'flex'
+    signup.style.display = ""
     successMob.style.display = 'none'
     successSec.style.display = 'none'
 })
